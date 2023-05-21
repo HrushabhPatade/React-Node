@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+
+*{ font-size:114%;
+}
+
+.nav {
+background-color: black;
+}
+
+.nav a{
+color: white;
+text-decoration:none;
+margin: 5%;
+
+} 
